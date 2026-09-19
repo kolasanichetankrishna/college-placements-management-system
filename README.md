@@ -1,7 +1,22 @@
-# College Placement Management System
+AI-Powered College Placement Management System
 
-## Local Description
-This project is built by Cheta for managing student placements, skill gap analysis, and mentorship mapping.
+Problem
+Students often don't know which skills they are missing for a particular job role.
 
-## GitHub Description
-This full-stack system allows resume parsing, tracks student progress, and offers personalized development plans.
+Solution
+An intelligent placement platform that analyzes student skills against job requirements and generates personalized learning recommendations.
+
+Tech Stack
+React
+JavaScript
+Python
+SQL
+AI/LLM APIs
+
+Features
+- Skill Gap Analysis
+- Learning Path Generation
+- Course Recommendations
+- Mentorship Matching
+- Job Role Analysis
+- Student Dashboard
